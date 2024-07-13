@@ -4,7 +4,7 @@ Performed comprehensive time-series analysis on 14+ years of Bitcoin historical 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)]([https://github.com/jaswinder123/bitcoin-historical-analysis](https://github.com/jass024/Bitcoin-Historical-Analysis))
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)]([https://github.com/jaswinder123/bitcoin-historical-analysis(https://github.com/jass024/Bitcoin-Historical-Analysis))
 
 This project provides a comprehensive analysis of Bitcoin's historical price, volume, and volatility data from 2010 to 2024. It leverages advanced data analysis techniques in Python, creates interactive visualizations, and investigates potential anomalies relevant to regulatory compliance. The project is designed to provide insights into Bitcoin's market dynamics and support data-driven decision-making for investors and regulators.
 
